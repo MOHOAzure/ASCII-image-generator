@@ -24,13 +24,13 @@ A generator, which accept an image file, for example jpg, and convert it to an A
 ## Demo
 
 ### Input image
-- input/image.jpg
+- ![input/image.jpg](https://github.com/MOHOAzure/ASCII-image-generator/blob/main/input/image.jpg)
 
 ### Command & ASCII art
 python .\ascii_image_generator.py --file input/image.jpg --out output/ascii_art.txt --cols 200
 
-- output/ascii_art.txt
+- [output/ascii_art.txt](https://github.com/MOHOAzure/ASCII-image-generator/blob/main/output/ascii_art.txt)
 
 python .\ascii_image_generator.py --file input/image.jpg --out output/ascii_art_detailed.txt --morelevels --cols 200
 
-- output/ascii_art_detailed.txt
+- [output/ascii_art_detailed.txt](https://github.com/MOHOAzure/ASCII-image-generator/blob/main/output/ascii_art_detailed.txt)
